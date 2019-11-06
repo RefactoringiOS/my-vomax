@@ -1,0 +1,660 @@
+
+/* Class = "UILabel"; text = "_________________________"; ObjectID = "06B-7U-AvY"; */
+"06B-7U-AvY.text" = "_________________________";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "0ch-LY-E1Y"; */
+"0ch-LY-E1Y.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "0tE-Of-ZVU"; */
+"0tE-Of-ZVU.text" = "Weight:";
+
+/* Class = "UILabel"; text = "Lactation:"; ObjectID = "11s-X1-YcC"; */
+"11s-X1-YcC.text" = "Lactation:";
+
+/* Class = "UILabel"; text = "Enter the distance in meters  for example If you ran 2.5 km you  run 2.500 meters "; ObjectID = "1XK-NF-xoF"; */
+"1XK-NF-xoF.text" = "Enter the distance in meters  for example If you ran 2.5 km you  run 2.500 meters ";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "1lm-ap-bmN"; */
+"1lm-ap-bmN.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "1vd-LH-09y"; */
+"1vd-LH-09y.text" = "_______________________";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "2I0-sJ-Phz"; */
+"2I0-sJ-Phz.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UIButton"; normalTitle = "Sitting"; ObjectID = "2KR-kh-Qgr"; */
+"2KR-kh-Qgr.normalTitle" = "Sitting";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "3Pq-UW-Pvj"; */
+"3Pq-UW-Pvj.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "Pace Calculator"; ObjectID = "3c0-JG-aKS"; */
+"3c0-JG-aKS.text" = "Pace Calculator";
+
+/* Class = "UILabel"; text = "5 days"; ObjectID = "4W8-aQ-S5I"; */
+"4W8-aQ-S5I.text" = "5 days";
+
+/* Class = "UILabel"; text = "VO2RunMax Is based on the Cooper test"; ObjectID = "4eK-ZQ-lzQ"; */
+"4eK-ZQ-lzQ.text" = "VO2RunMax Is based on the Cooper test";
+
+/* Class = "UILabel"; text = "Height:"; ObjectID = "4zC-3X-aae"; */
+"4zC-3X-aae.text" = "Height:";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "52v-AW-Bjy"; */
+"52v-AW-Bjy.text" = "Pace";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "6Nf-Vj-mpc"; */
+"6Nf-Vj-mpc.text" = "_______________________";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "70l-bf-H9T"; */
+"70l-bf-H9T.text" = "Gender:";
+
+/* Class = "UILabel"; text = "Projection is an average, factors like fatigue, climatic or route conditions, pain for injuries or dehydration, etc. not estimated in this equation."; ObjectID = "7cZ-Nu-xYb"; */
+"7cZ-Nu-xYb.text" = "Projection is an average, factors like fatigue, climatic or route conditions, pain for injuries or dehydration, etc. not estimated in this equation.";
+
+/* Class = "UILabel"; text = "10km"; ObjectID = "7up-it-o1U"; */
+"7up-it-o1U.text" = "10km";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "8aW-QD-uJv"; */
+"8aW-QD-uJv.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "VO2Max"; ObjectID = "8bl-T7-Fv3"; */
+"8bl-T7-Fv3.text" = "VO2Max";
+
+/* Class = "UILabel"; text = "Day 6\n"; ObjectID = "8ej-FM-Sf6"; */
+"8ej-FM-Sf6.text" = "Day 6\n";
+
+/* Class = "UILabel"; text = "Pace Calculator"; ObjectID = "8s1-6n-WTF"; */
+"8s1-6n-WTF.text" = "Pace Calculator";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "9rW-I3-YC6"; */
+"9rW-I3-YC6.text" = "0.00";
+
+/* Class = "UISegmentedControl"; 9ut-AH-s7z.segmentTitles[0] = "kg&m"; ObjectID = "9ut-AH-s7z"; */
+"9ut-AH-s7z.segmentTitles[0]" = "kg&m";
+
+/* Class = "UISegmentedControl"; 9ut-AH-s7z.segmentTitles[1] = "lb&in"; ObjectID = "9ut-AH-s7z"; */
+"9ut-AH-s7z.segmentTitles[1]" = "lb&in";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "AVt-IN-dsR"; */
+"AVt-IN-dsR.text" = "_______________________";
+
+/* Class = "UILabel"; text = "_________________________"; ObjectID = "Aq0-SK-E8h"; */
+"Aq0-SK-E8h.text" = "_________________________";
+
+/* Class = "UIButton"; normalTitle = "Trening Plan"; ObjectID = "AwD-UF-sGD"; */
+"AwD-UF-sGD.normalTitle" = "Trening Plan";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "Az7-Er-8I7"; */
+"Az7-Er-8I7.text" = "Pace";
+
+/* Class = "UITextView"; text = "Eat a moderate meal with a high amount of carbohydrate approximately two hours before starting the test. You will need a lot of energy to run your fastest.\n\nSome ideas include a banana and peanut butter sandwich or a baked potato without butter. Use comfortable running equipment and go to a place with flat terrain where nothing can slow down. Avoid traffic lights and obstacles as much as possible, we recommend an athletic track or a treadmill becouse you need the distance you're going to run\n\nThe timer will stop at 12 minutes with a sound signal.\n\nStop your race and calculate the distance traveled at this time.\n\nIf you run as fast as possible, you will get a more accurate VO2 max score. Push yourself during workouts to increase your VO2 max. With exercise your VO2 max can increase by 10 to 30 percent. This test is an estimate of your VO2 max. The only complete and accurate way to measure your VO2 max is in a clinical setting on a graded treadmill."; ObjectID = "B2g-0o-xlf"; */
+"B2g-0o-xlf.text" = "Eat a moderate meal with a high amount of carbohydrate approximately two hours before starting the test. You will need a lot of energy to run your fastest.\n\nSome ideas include a banana and peanut butter sandwich or a baked potato without butter. Use comfortable running equipment and go to a place with flat terrain where nothing can slow down. Avoid traffic lights and obstacles as much as possible, we recommend an athletic track or a treadmill becouse you need the distance you're going to run\n\nThe timer will stop at 12 minutes with a sound signal.\n\nStop your race and calculate the distance traveled at this time.\n\nIf you run as fast as possible, you will get a more accurate VO2 max score. Push yourself during workouts to increase your VO2 max. With exercise your VO2 max can increase by 10 to 30 percent. This test is an estimate of your VO2 max. The only complete and accurate way to measure your VO2 max is in a clinical setting on a graded treadmill.";
+
+/* Class = "UILabel"; text = "Running Plan"; ObjectID = "BXS-zP-krP"; */
+"BXS-zP-krP.text" = "Running Plan";
+
+/* Class = "UILabel"; text = "BMI:"; ObjectID = "CFB-vy-bY3"; */
+"CFB-vy-bY3.text" = "BMI:";
+
+/* Class = "UILabel"; text = "28.09"; ObjectID = "CT7-7P-PYx"; */
+"CT7-7P-PYx.text" = "28.09";
+
+/* Class = "UILabel"; text = "Day 12\n"; ObjectID = "CUg-uX-m2y"; */
+"CUg-uX-m2y.text" = "Day 12\n";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "Cky-R5-GAh"; */
+"Cky-R5-GAh.text" = "_______________________";
+
+/* Class = "UITextField"; text = "Men"; ObjectID = "CtM-l5-hZg"; */
+"CtM-l5-hZg.text" = "Men";
+
+/* Class = "UILabel"; text = "RESET"; ObjectID = "D9I-FJ-q5K"; */
+"D9I-FJ-q5K.text" = "RESET";
+
+/* Class = "UILabel"; text = "79"; ObjectID = "DKJ-te-NNj"; */
+"DKJ-te-NNj.text" = "79";
+
+/* Class = "UIButton"; normalTitle = "Medium active"; ObjectID = "Dmh-aZ-659"; */
+"Dmh-aZ-659.normalTitle" = "Medium active";
+
+/* Class = "UILabel"; text = "3 days"; ObjectID = "E1i-Ji-oDV"; */
+"E1i-Ji-oDV.text" = "3 days";
+
+/* Class = "UIButton"; normalTitle = "VO2Max"; ObjectID = "EVh-pc-VGv"; */
+"EVh-pc-VGv.normalTitle" = "VO2Max";
+
+/* Class = "UILabel"; text = "BMI/BMR"; ObjectID = "EmB-RE-IpT"; */
+"EmB-RE-IpT.text" = "BMI/BMR";
+
+/* Class = "UILabel"; text = "Day 13\n"; ObjectID = "F8T-Ik-yIi"; */
+"F8T-Ik-yIi.text" = "Day 13\n";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "Faf-Pa-gyE"; */
+"Faf-Pa-gyE.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UILabel"; text = "(mts)"; ObjectID = "Fg5-rM-X4y"; */
+"Fg5-rM-X4y.text" = "(mts)";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "Fz5-wv-Ylt"; */
+"Fz5-wv-Ylt.text" = "_______________________";
+
+/* Class = "UIButton"; normalTitle = "BMI/BMR"; ObjectID = "G90-0A-jhk"; */
+"G90-0A-jhk.normalTitle" = "BMI/BMR";
+
+/* Class = "UILabel"; text = "VO2Max:"; ObjectID = "GFb-cG-W2b"; */
+"GFb-cG-W2b.text" = "VO2Max:";
+
+/* Class = "UIButton"; normalTitle = "Exit"; ObjectID = "GfJ-M7-bJB"; */
+"GfJ-M7-bJB.normalTitle" = "Exit";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "Gky-FI-7zD"; */
+"Gky-FI-7zD.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "Gvd-1B-KbW"; */
+"Gvd-1B-KbW.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UILabel"; text = "Marathon"; ObjectID = "HAZ-80-EzT"; */
+"HAZ-80-EzT.text" = "Marathon";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "HU9-nn-rro"; */
+"HU9-nn-rro.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "Hb3-XK-7Kw"; */
+"Hb3-XK-7Kw.text" = "_______________________";
+
+/* Class = "UITextView"; text = "We recommend consulting a professional before starting any activity High-perf ormance sports \n\nVO2RunMax generates automatically an equation of training plan based on your VO2max test in this app, If you enter non-real values in your VO2max, you expose yourself to create a training plan that is not suitable for your condition."; ObjectID = "HgH-yG-BFS"; */
+"HgH-yG-BFS.text" = "We recommend consulting a professional before starting any activity High-perf ormance sports \n\nVO2RunMax generates automatically an equation of training plan based on your VO2max test in this app, If you enter non-real values in your VO2max, you expose yourself to create a training plan that is not suitable for your condition.";
+
+/* Class = "UITextView"; text = "This app can help you in your running performance. You can increase between 10 to 30 percent your running performace if you know what is your limits to run long distance.\n\nConsult your doctor before performing any VO2Max test."; ObjectID = "IeV-ky-D37"; */
+"IeV-ky-D37.text" = "This app can help you in your running performance. You can increase between 10 to 30 percent your running performace if you know what is your limits to run long distance.\n\nConsult your doctor before performing any VO2Max test.";
+
+/* Class = "UILabel"; text = "Life Style:"; ObjectID = "IfA-UI-ovw"; */
+"IfA-UI-ovw.text" = "Life Style:";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "Im9-iD-h16"; */
+"Im9-iD-h16.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "Day 11\n"; ObjectID = "Ime-ld-M7e"; */
+"Ime-ld-M7e.text" = "Day 11\n";
+
+/* Class = "UILabel"; text = "28.09"; ObjectID = "Itb-bf-xRA"; */
+"Itb-bf-xRA.text" = "28.09";
+
+/* Class = "UILabel"; text = "_________________________"; ObjectID = "J6A-SB-vf6"; */
+"J6A-SB-vf6.text" = "_________________________";
+
+/* Class = "UIButton"; normalTitle = "BMI/BMR"; ObjectID = "J7U-zi-L4u"; */
+"J7U-zi-L4u.normalTitle" = "BMI/BMR";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "JaL-59-deo"; */
+"JaL-59-deo.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UIButton"; normalTitle = "Calculate!"; ObjectID = "K6T-0W-BKe"; */
+"K6T-0W-BKe.normalTitle" = "Calculate!";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "Kcx-o3-oPP"; */
+"Kcx-o3-oPP.text" = "Pace";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "Kxa-Q5-krG"; */
+"Kxa-Q5-krG.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "BMR:"; ObjectID = "LGW-I7-TGY"; */
+"LGW-I7-TGY.text" = "BMR:";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "LHf-pE-3Gu"; */
+"LHf-pE-3Gu.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "Runs at a average pace between 70% of 80% of your capacity. The VO2max test is extremely strenuous. We recommend the company of a person who can help you in case of any emergency or to hold your phone\n"; ObjectID = "LMa-qb-cMO"; */
+"LMa-qb-cMO.text" = "Runs at a average pace between 70% of 80% of your capacity. The VO2max test is extremely strenuous. We recommend the company of a person who can help you in case of any emergency or to hold your phone\n";
+
+/* Class = "UILabel"; text = "Day 8\n"; ObjectID = "LbS-sw-IE6"; */
+"LbS-sw-IE6.text" = "Day 8\n";
+
+/* Class = "UISegmentedControl"; LdW-yN-fUV.segmentTitles[0] = "Male"; ObjectID = "LdW-yN-fUV"; */
+"LdW-yN-fUV.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; LdW-yN-fUV.segmentTitles[1] = "Female"; ObjectID = "LdW-yN-fUV"; */
+"LdW-yN-fUV.segmentTitles[1]" = "Female";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "M23-wV-JCZ"; */
+"M23-wV-JCZ.text" = "00.00";
+
+/* Class = "UIButton"; normalTitle = "Calculate!"; ObjectID = "Mkx-Kd-tEN"; */
+"Mkx-Kd-tEN.normalTitle" = "Calculate!";
+
+/* Class = "UITextField"; text = "No"; ObjectID = "N3P-6N-mSA"; */
+"N3P-6N-mSA.text" = "No";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "N4u-AW-WOc"; */
+"N4u-AW-WOc.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UILabel"; text = "Water Calculator "; ObjectID = "O9q-pj-MVo"; */
+"O9q-pj-MVo.text" = "Water Calculator ";
+
+/* Class = "UILabel"; text = "Water projection required"; ObjectID = "ODj-Gh-WAh"; */
+"ODj-Gh-WAh.text" = "Water projection required";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "ORq-vH-tWf"; */
+"ORq-vH-tWf.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Warning"; ObjectID = "OXj-8V-okr"; */
+"OXj-8V-okr.text" = "Warning";
+
+/* Class = "UIViewController"; title = "Warning\n"; ObjectID = "OlA-x8-Co9"; */
+"OlA-x8-Co9.title" = "Warning\n";
+
+/* Class = "UILabel"; text = "Running Plan"; ObjectID = "OpV-Cz-bxI"; */
+"OpV-Cz-bxI.text" = "Running Plan";
+
+/* Class = "UILabel"; text = "RESET"; ObjectID = "PWl-nj-5uQ"; */
+"PWl-nj-5uQ.text" = "RESET";
+
+/* Class = "UITextField"; text = "10"; ObjectID = "Pfg-X6-vf4"; */
+"Pfg-X6-vf4.text" = "10";
+
+/* Class = "UILabel"; text = "Half Marathon"; ObjectID = "Q7i-LK-GJz"; */
+"Q7i-LK-GJz.text" = "Half Marathon";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "QRh-CY-XQa"; */
+"QRh-CY-XQa.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "Height:"; ObjectID = "QRp-mC-ziv"; */
+"QRp-mC-ziv.text" = "Height:";
+
+/* Class = "UILabel"; text = "Basal Metabolic Rate, or BMR is an estimate of how many calories you'd burn if you were to do nothing but rest for 24 hours. It represents the minimum amount of energy needed to keep your body functioning, including breathing and keeping your heart beating.\n"; ObjectID = "QmN-Pe-eDB"; */
+"QmN-Pe-eDB.text" = "Basal Metabolic Rate, or BMR is an estimate of how many calories you'd burn if you were to do nothing but rest for 24 hours. It represents the minimum amount of energy needed to keep your body functioning, including breathing and keeping your heart beating.\n";
+
+/* Class = "UILabel"; text = "Euforiabiegaczki"; ObjectID = "Qvk-g9-PaT"; */
+"Qvk-g9-PaT.text" = "Euforiabiegaczki";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "R41-JY-Yf1"; */
+"R41-JY-Yf1.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UIButton"; normalTitle = "Very active"; ObjectID = "RMq-G6-nx8"; */
+"RMq-G6-nx8.normalTitle" = "Very active";
+
+/* Class = "UIButton"; normalTitle = "New VO2Max test"; ObjectID = "Rbu-Jm-WgG"; */
+"Rbu-Jm-WgG.normalTitle" = "New VO2Max test";
+
+/* Class = "UILabel"; text = "BMI/BMR Calculator"; ObjectID = "Rm7-au-txJ"; */
+"Rm7-au-txJ.text" = "BMI/BMR Calculator";
+
+/* Class = "UILabel"; text = "Do you need to see a doctor before starting your exercise program?"; ObjectID = "RwK-tf-Zb1"; */
+"RwK-tf-Zb1.text" = "Do you need to see a doctor before starting your exercise program?";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "S0Z-cu-ahF"; */
+"S0Z-cu-ahF.text" = "Pace";
+
+/* Class = "UILabel"; text = "Day 14\n"; ObjectID = "SKU-p8-nu0"; */
+"SKU-p8-nu0.text" = "Day 14\n";
+
+/* Class = "UITextView"; text = "In running, pace is usually defined as the number of minutes it takes to cover a mile or kilometer. \n\npace calculator can help you figure out the average pace for your most recent race or workout by simply inputting the length of time you ran and the distance you covered. It can also use pace and distance to help you calculate time and your overall time and pace to help solve for distance."; ObjectID = "SYN-Lf-Iiu"; */
+"SYN-Lf-Iiu.text" = "In running, pace is usually defined as the number of minutes it takes to cover a mile or kilometer. \n\npace calculator can help you figure out the average pace for your most recent race or workout by simply inputting the length of time you ran and the distance you covered. It can also use pace and distance to help you calculate time and your overall time and pace to help solve for distance.";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "SoC-L3-N4d"; */
+"SoC-L3-N4d.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "TOa-dL-Ubs"; */
+"TOa-dL-Ubs.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "Tcl-u7-jb4"; */
+"Tcl-u7-jb4.text" = "Pace";
+
+/* Class = "UILabel"; text = "http://www.health.harvard.edu/ "; ObjectID = "ThO-BG-QAy"; */
+"ThO-BG-QAy.text" = "http://www.health.harvard.edu/ ";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "Tpi-Ap-kOh"; */
+"Tpi-Ap-kOh.text" = "3.4min / 3.8max";
+
+/* Class = "UITextView"; text = "\nVO2 max, or maximal oxygen uptake, it is a common measurement many athletes use to determine their overall fitness, because it is linked to aerobic endurance. VO2 max is the measurement of the maximum amount of oxygen that an individual can utilize during intense, or maximal exercise. It is measured as milliliters of oxygen used in one minute per kilogram of body weight, and is one factor that may help determine an athlete's capacity to perform sustained exercise.\n\nAn athlete's VO2 Max score is  the best indicators of the athlete's cardiovascular fitness and aerobic endurance. Theoretically, the more oxygen you can use during high-level exercise, the more ATP (energy) you can produce. This is often the case with elite endurance athletes who typically have very high VO2 max values.\n\nV02 max should not be confused with the lactate threshold (LT) or anaerobic threshold (AT), which refers to the point during exhaustive, all-out exercise at which lactate builds up in the muscles during exercise. With proper training, athletes are often able to substantially increase their AT and exercise longer at a higher intensity.\n\nHow Is VO2 Max Measured?\nMeasuring VO2 max accurately requires an all-out effort (usually on a treadmill or bicycle) performed under a strict protocol in a sports performance lab. These protocols involve specific increases in the speed and intensity of the exercise and collection and measurement of the volume and oxygen concentration of inhaled and exhaled air.\n\nThis determines how much oxygen the athlete is using.\n\nAn athlete's oxygen consumption rises in a linear relationship with exercise intensity -- up to a point. There is a specific point at which oxygen consumption plateaus even if the exercise intensity increases. This plateau marks the V02 max. It's a painful point in VO2 max testing where the athlete moves from aerobic metabolism to anaerobic metabolism (See the article: Energy Pathways for Exercise).\n\n\nFrom here, it's not long before muscle fatigue forces the athlete to stop exercising.\n\nThe test usually takes between 10 and 15 minutes and requires an athlete to be completely rested and motivated to endure the pain long enough to find the true VO2 max.\n\nVo2 max can also be estimated. There are a variety of protocols used to estimate VO2 max, but none are as accurate as direct testing.\n"; ObjectID = "TtI-29-HDK"; */
+"TtI-29-HDK.text" = "\nVO2 max, or maximal oxygen uptake, it is a common measurement many athletes use to determine their overall fitness, because it is linked to aerobic endurance. VO2 max is the measurement of the maximum amount of oxygen that an individual can utilize during intense, or maximal exercise. It is measured as milliliters of oxygen used in one minute per kilogram of body weight, and is one factor that may help determine an athlete's capacity to perform sustained exercise.\n\nAn athlete's VO2 Max score is  the best indicators of the athlete's cardiovascular fitness and aerobic endurance. Theoretically, the more oxygen you can use during high-level exercise, the more ATP (energy) you can produce. This is often the case with elite endurance athletes who typically have very high VO2 max values.\n\nV02 max should not be confused with the lactate threshold (LT) or anaerobic threshold (AT), which refers to the point during exhaustive, all-out exercise at which lactate builds up in the muscles during exercise. With proper training, athletes are often able to substantially increase their AT and exercise longer at a higher intensity.\n\nHow Is VO2 Max Measured?\nMeasuring VO2 max accurately requires an all-out effort (usually on a treadmill or bicycle) performed under a strict protocol in a sports performance lab. These protocols involve specific increases in the speed and intensity of the exercise and collection and measurement of the volume and oxygen concentration of inhaled and exhaled air.\n\nThis determines how much oxygen the athlete is using.\n\nAn athlete's oxygen consumption rises in a linear relationship with exercise intensity -- up to a point. There is a specific point at which oxygen consumption plateaus even if the exercise intensity increases. This plateau marks the V02 max. It's a painful point in VO2 max testing where the athlete moves from aerobic metabolism to anaerobic metabolism (See the article: Energy Pathways for Exercise).\n\n\nFrom here, it's not long before muscle fatigue forces the athlete to stop exercising.\n\nThe test usually takes between 10 and 15 minutes and requires an athlete to be completely rested and motivated to endure the pain long enough to find the true VO2 max.\n\nVo2 max can also be estimated. There are a variety of protocols used to estimate VO2 max, but none are as accurate as direct testing.\n";
+
+/* Class = "UILabel"; text = "Day 4\n"; ObjectID = "Tth-UP-cS3"; */
+"Tth-UP-cS3.text" = "Day 4\n";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "UFD-bS-hD5"; */
+"UFD-bS-hD5.text" = "Pace";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "UeN-NY-bgM"; */
+"UeN-NY-bgM.text" = "Age:";
+
+/* Class = "UILabel"; text = "1897.65"; ObjectID = "UxI-XB-ynJ"; */
+"UxI-XB-ynJ.text" = "1897.65";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "VZM-cL-l0x"; */
+"VZM-cL-l0x.text" = "_______________________";
+
+/* Class = "UIButton"; normalTitle = "I agree"; ObjectID = "Vjk-qg-olT"; */
+"Vjk-qg-olT.normalTitle" = "I agree";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "Vyr-2M-iUN"; */
+"Vyr-2M-iUN.text" = "Weight:";
+
+/* Class = "UILabel"; text = "Warsaw Poland"; ObjectID = "W29-cu-kcj"; */
+"W29-cu-kcj.text" = "Warsaw Poland";
+
+/* Class = "UILabel"; text = "About the app"; ObjectID = "Whc-04-4dd"; */
+"Whc-04-4dd.text" = "About the app";
+
+/* Class = "UITextView"; text = "Did you know that your body weight is approximately 60 percent water? Your body uses water in all its cells, organs, and tissues to help regulate its temperature and maintain other bodily functions. Because your body loses water through breathing, sweating, and digestion, it's important to rehydrate by drinking fluids and eating foods that contain water. The amount of water you need depends on a variety of factors, including the climate you live in, how physically active you are, and whether you're experiencing an illness or have any other health problems.\n\nWater Protects Your Tissues, Spinal Cord, and Joints\n\nWater does more than just quench your thirst and regulate your body's temperature; it also keeps the tissues in your body moist. You know how it feels when your eyes, nose, or mouth gets dry? Keeping your body hydrated helps it retain optimum levels of moisture in these sensitive areas, as well as in the blood, bones, and the brain. In addition, water helps protect the spinal cord, and it acts as a lubricant and cushion for your joints.\n\nWater Helps Your Body Remove Waste\n\nAdequate water intake enables your body to excrete waste through perspiration, urination, and defecation. The kidneys and liver use it to help flush out waste, as do your intestines. Water can also keep you from getting constipated by softening your stools and helping move the food you've eaten through your intestinal tract. However, it should be noted that there is no evidence to prove that increasing your fluid intake will cure constipation.\n\nWater Aids in Digestion\n\nDigestion starts with saliva, the basis of which is water. Digestion relies on enzymes that are found in saliva to help break down food and liquid and to dissolve minerals and other nutrients. Proper digestion makes minerals and nutrients more accessible to the body. Water is also necessary to help you digest soluble fiber. With the help of water, this fiber dissolves easily and benefits your bowel health by making well-formed, soft stools that are easy to pass.\n\nWater Prevents You From Becoming Dehydrated\n\nYour body loses fluids when you engage in vigorous exercise, sweat in high heat, or come down with a fever or contract an illness that causes vomiting or diarrhea. If you're losing fluids for any of these reasons, it's important to increase your fluid intake so that you can restore your body's natural hydration levels. Your doctor may also recommend that you drink more fluids to help treat other health conditions, like bladder infections and urinary tract stones. If you're pregnant or nursing, you may want to consult with your physician about your fluid intake because your body will be using more fluids than usual, especially if you're breastfeeding.\n\nHow Much Water Do You Need?\n\nThere's no hard and fast rule, and many individuals meet their daily hydration needs by simply drinking water when they're thirsty, according to a report on nutrient recommendations from the Institute of Medicine of the National Academies. In fact, most people who are in good physical health get enough fluids by drinking water and other beverages when they're thirsty, and also by drinking a beverage with each of their meals, according to the Centers for Disease Control and Prevention. If you're not sure about your hydration level, look at your urine. If it's clear, you're in good shape. If it's dark, you're probably dehydrated."; ObjectID = "Wyf-bb-WuP"; */
+"Wyf-bb-WuP.text" = "Did you know that your body weight is approximately 60 percent water? Your body uses water in all its cells, organs, and tissues to help regulate its temperature and maintain other bodily functions. Because your body loses water through breathing, sweating, and digestion, it's important to rehydrate by drinking fluids and eating foods that contain water. The amount of water you need depends on a variety of factors, including the climate you live in, how physically active you are, and whether you're experiencing an illness or have any other health problems.\n\nWater Protects Your Tissues, Spinal Cord, and Joints\n\nWater does more than just quench your thirst and regulate your body's temperature; it also keeps the tissues in your body moist. You know how it feels when your eyes, nose, or mouth gets dry? Keeping your body hydrated helps it retain optimum levels of moisture in these sensitive areas, as well as in the blood, bones, and the brain. In addition, water helps protect the spinal cord, and it acts as a lubricant and cushion for your joints.\n\nWater Helps Your Body Remove Waste\n\nAdequate water intake enables your body to excrete waste through perspiration, urination, and defecation. The kidneys and liver use it to help flush out waste, as do your intestines. Water can also keep you from getting constipated by softening your stools and helping move the food you've eaten through your intestinal tract. However, it should be noted that there is no evidence to prove that increasing your fluid intake will cure constipation.\n\nWater Aids in Digestion\n\nDigestion starts with saliva, the basis of which is water. Digestion relies on enzymes that are found in saliva to help break down food and liquid and to dissolve minerals and other nutrients. Proper digestion makes minerals and nutrients more accessible to the body. Water is also necessary to help you digest soluble fiber. With the help of water, this fiber dissolves easily and benefits your bowel health by making well-formed, soft stools that are easy to pass.\n\nWater Prevents You From Becoming Dehydrated\n\nYour body loses fluids when you engage in vigorous exercise, sweat in high heat, or come down with a fever or contract an illness that causes vomiting or diarrhea. If you're losing fluids for any of these reasons, it's important to increase your fluid intake so that you can restore your body's natural hydration levels. Your doctor may also recommend that you drink more fluids to help treat other health conditions, like bladder infections and urinary tract stones. If you're pregnant or nursing, you may want to consult with your physician about your fluid intake because your body will be using more fluids than usual, especially if you're breastfeeding.\n\nHow Much Water Do You Need?\n\nThere's no hard and fast rule, and many individuals meet their daily hydration needs by simply drinking water when they're thirsty, according to a report on nutrient recommendations from the Institute of Medicine of the National Academies. In fact, most people who are in good physical health get enough fluids by drinking water and other beverages when they're thirsty, and also by drinking a beverage with each of their meals, according to the Centers for Disease Control and Prevention. If you're not sure about your hydration level, look at your urine. If it's clear, you're in good shape. If it's dark, you're probably dehydrated.";
+
+/* Class = "UILabel"; text = "Day 7\n"; ObjectID = "X1f-qx-eOm"; */
+"X1f-qx-eOm.text" = "Day 7\n";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "XFP-oe-TKF"; */
+"XFP-oe-TKF.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UILabel"; text = "Unit:"; ObjectID = "Xh1-Ig-Ngl"; */
+"Xh1-Ig-Ngl.text" = "Unit:";
+
+/* Class = "UILabel"; text = "Water Calculator "; ObjectID = "Yv8-Kl-hhA"; */
+"Yv8-Kl-hhA.text" = "Water Calculator ";
+
+/* Class = "UILabel"; text = "Distance:"; ObjectID = "Z2E-iv-Ahl"; */
+"Z2E-iv-Ahl.text" = "Distance:";
+
+/* Class = "UIViewController"; title = "PoliticPriv"; ObjectID = "Z2f-Em-hWx"; */
+"Z2f-Em-hWx.title" = "PoliticPriv";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "Z7u-NO-qh3"; */
+"Z7u-NO-qh3.text" = "00:00:00";
+
+/* Class = "UITextView"; text = "VO2RunMax Terms of Service and Privacy Policy\n\n1. Terms\n\nBy install the app vo2runmax you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using this app. The materials contained in this app are protected by applicable copyright and trademark law.\n\n2. Use License\n\nPermission is granted to temporarily download VO2RunMax's app for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:\nmodify or copy the materials;\nuse the materials for any commercial purpose, or for any public display (commercial or non-commercial);\nattempt to decompile or reverse engineer any software contained on VO2RunMax's app;\nremove any copyright or other proprietary notations from the materials; or\ntransfer the materials to another person or \"mirror\" the materials on any other server.\nThis license shall automatically terminate if you violate any of these restrictions and may be terminated by VO2RunMax at any time. \n\n3. Disclaimer\n\nThe information on VO2RunMax's app are provided on an 'as is' basis. VO2RunMax makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.\nFurther, VO2RunMax does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.\n\n4. Limitations\n\nIn no event shall VO2RunMax or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on VO2RunMax's website or the app, even if VO2RunMax or a VO2RunMax authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.\n\n5. Accuracy of materials\n\nThe materials appearing on VO2RunMax's app could include technical, typographical, or photographic errors. VO2RunMax does not warrant that any of the materials on its app are accurate, complete or current. VO2RunMax may make changes to the materials contained on its website at any time without notice. However VO2RunMax does not make any commitment to update the materials.\n\n6. Links\n\nVO2RunMax has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by VO2RunMax of the site. Use of any such linked website is at the user's own risk.\n\n7. Modifications\n\nVO2RunMax may revise these terms of service for its app at any time without notice. By using this app you are agreeing to be bound by the then current version of these terms of service.\n\n8. Governing Law\n\nThese terms and conditions are governed by and construed in accordance with the laws of Poland and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.\n\nPrivacy Policy\n\nYour privacy is important to us.\n\nIt is VO2RunMax's policy to respect your privacy regarding any information we may collect while operating our app. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.\n\nWe will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.\nBefore or at the time of collecting personal information, we will identify the purposes for which information is being collected.\nWe will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.\nPersonal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.\nWe will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use "; ObjectID = "ZYX-2j-BT2"; */
+"ZYX-2j-BT2.text" = "VO2RunMax Terms of Service and Privacy Policy\n\n1. Terms\n\nBy install the app vo2runmax you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using this app. The materials contained in this app are protected by applicable copyright and trademark law.\n\n2. Use License\n\nPermission is granted to temporarily download VO2RunMax's app for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:\nmodify or copy the materials;\nuse the materials for any commercial purpose, or for any public display (commercial or non-commercial);\nattempt to decompile or reverse engineer any software contained on VO2RunMax's app;\nremove any copyright or other proprietary notations from the materials; or\ntransfer the materials to another person or \"mirror\" the materials on any other server.\nThis license shall automatically terminate if you violate any of these restrictions and may be terminated by VO2RunMax at any time. \n\n3. Disclaimer\n\nThe information on VO2RunMax's app are provided on an 'as is' basis. VO2RunMax makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.\nFurther, VO2RunMax does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.\n\n4. Limitations\n\nIn no event shall VO2RunMax or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on VO2RunMax's website or the app, even if VO2RunMax or a VO2RunMax authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.\n\n5. Accuracy of materials\n\nThe materials appearing on VO2RunMax's app could include technical, typographical, or photographic errors. VO2RunMax does not warrant that any of the materials on its app are accurate, complete or current. VO2RunMax may make changes to the materials contained on its website at any time without notice. However VO2RunMax does not make any commitment to update the materials.\n\n6. Links\n\nVO2RunMax has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by VO2RunMax of the site. Use of any such linked website is at the user's own risk.\n\n7. Modifications\n\nVO2RunMax may revise these terms of service for its app at any time without notice. By using this app you are agreeing to be bound by the then current version of these terms of service.\n\n8. Governing Law\n\nThese terms and conditions are governed by and construed in accordance with the laws of Poland and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.\n\nPrivacy Policy\n\nYour privacy is important to us.\n\nIt is VO2RunMax's policy to respect your privacy regarding any information we may collect while operating our app. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.\n\nWe will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.\nBefore or at the time of collecting personal information, we will identify the purposes for which information is being collected.\nWe will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.\nPersonal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.\nWe will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use ";
+
+/* Class = "UITextField"; text = "3"; ObjectID = "aBL-Ux-aWE"; */
+"aBL-Ux-aWE.text" = "3";
+
+/* Class = "UITextField"; text = "No"; ObjectID = "aC7-lB-C7K"; */
+"aC7-lB-C7K.text" = "No";
+
+/* Class = "UIButton"; normalTitle = "Pace Calculator"; ObjectID = "aPa-bL-8EK"; */
+"aPa-bL-8EK.normalTitle" = "Pace Calculator";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "b3M-Xo-Rmt"; */
+"b3M-Xo-Rmt.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "bJP-Px-1Dc"; */
+"bJP-Px-1Dc.text" = "Gender:";
+
+/* Class = "UIButton"; normalTitle = "Water Calculator "; ObjectID = "bLY-Hv-4pI"; */
+"bLY-Hv-4pI.normalTitle" = "Water Calculator ";
+
+/* Class = "UILabel"; text = "When you are ready press start"; ObjectID = "bLj-jW-9Jt"; */
+"bLj-jW-9Jt.text" = "When you are ready press start";
+
+/* Class = "UILabel"; text = "Day 9\n"; ObjectID = "bWa-Ut-fI5"; */
+"bWa-Ut-fI5.text" = "Day 9\n";
+
+/* Class = "UIViewController"; title = "RunnigPlan"; ObjectID = "bnb-WC-PWk"; */
+"bnb-WC-PWk.title" = "RunnigPlan";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "c2R-Sa-Abn"; */
+"c2R-Sa-Abn.text" = "Pace";
+
+/* Class = "UILabel"; text = "5km"; ObjectID = "c4z-wL-m8M"; */
+"c4z-wL-m8M.text" = "5km";
+
+/* Class = "UILabel"; text = "BMI/BMR Calculator"; ObjectID = "cD5-bJ-maQ"; */
+"cD5-bJ-maQ.text" = "BMI/BMR Calculator";
+
+/* Class = "UIButton"; normalTitle = "Pace Calculator"; ObjectID = "cRQ-ME-Ian"; */
+"cRQ-ME-Ian.normalTitle" = "Pace Calculator";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "cdb-C2-yLG"; */
+"cdb-C2-yLG.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "Body mass index, or BMI, is used to determine whether you are in a healthy weight range for your height.\n"; ObjectID = "cex-6k-J4O"; */
+"cex-6k-J4O.text" = "Body mass index, or BMI, is used to determine whether you are in a healthy weight range for your height.\n";
+
+/* Class = "UIViewController"; title = "PaceCalculator"; ObjectID = "cmK-lA-x1j"; */
+"cmK-lA-x1j.title" = "PaceCalculator";
+
+/* Class = "UILabel"; text = "(m)"; ObjectID = "cnV-Zv-x02"; */
+"cnV-Zv-x02.text" = "(m)";
+
+/* Class = "UILabel"; text = "What you need to understand"; ObjectID = "dSO-Zi-ZSR"; */
+"dSO-Zi-ZSR.text" = "What you need to understand";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "dTG-QA-Lmu"; */
+"dTG-QA-Lmu.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "dW9-GU-LSI"; */
+"dW9-GU-LSI.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UILabel"; text = "Version 1.0  "; ObjectID = "e0Y-QP-x2v"; */
+"e0Y-QP-x2v.text" = "Version 1.0  ";
+
+/* Class = "UILabel"; text = "Water Calculator "; ObjectID = "e1z-eH-3uS"; */
+"e1z-eH-3uS.text" = "Water Calculator ";
+
+/* Class = "UILabel"; text = "Day 3\n"; ObjectID = "eH2-OW-Bcg"; */
+"eH2-OW-Bcg.text" = "Day 3\n";
+
+/* Class = "UILabel"; text = "Keep a proper hydration, does not replace water for other drinks, consult a specialist about your hydration plan"; ObjectID = "ec6-Qk-NMr"; */
+"ec6-Qk-NMr.text" = "Keep a proper hydration, does not replace water for other drinks, consult a specialist about your hydration plan";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "fuD-d2-bgI"; */
+"fuD-d2-bgI.text" = "Pace";
+
+/* Class = "UILabel"; text = "This equation average reduces the time that you can lose by fatigue climatic conditions hydration etc."; ObjectID = "fuD-l7-fv1"; */
+"fuD-l7-fv1.text" = "This equation average reduces the time that you can lose by fatigue climatic conditions hydration etc.";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "gTr-hz-Akj"; */
+"gTr-hz-Akj.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "Consult a specialist about a specific nutrition plan according your conditions"; ObjectID = "gws-Tl-afS"; */
+"gws-Tl-afS.text" = "Consult a specialist about a specific nutrition plan according your conditions";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "hQa-dP-w4m"; */
+"hQa-dP-w4m.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "you VO2Max:"; ObjectID = "hZw-Qh-ngH"; */
+"hZw-Qh-ngH.text" = "you VO2Max:";
+
+/* Class = "UILabel"; text = "pregnancy:"; ObjectID = "hda-v0-QEj"; */
+"hda-v0-QEj.text" = "pregnancy:";
+
+/* Class = "UIViewController"; title = "RunnigPlan"; ObjectID = "hyd-SV-jsa"; */
+"hyd-SV-jsa.title" = "RunnigPlan";
+
+/* Class = "UILabel"; text = "Instructions"; ObjectID = "i0I-xO-AnV"; */
+"i0I-xO-AnV.text" = "Instructions";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "iuQ-o5-tUn"; */
+"iuQ-o5-tUn.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "Research"; ObjectID = "j2k-CU-e1T"; */
+"j2k-CU-e1T.text" = "Research";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "j7X-XU-2LZ"; */
+"j7X-XU-2LZ.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "Day 10\n"; ObjectID = "jPF-UF-Ils"; */
+"jPF-UF-Ils.text" = "Day 10\n";
+
+/* Class = "UIButton"; normalTitle = "Small active"; ObjectID = "jVP-5s-jr2"; */
+"jVP-5s-jr2.normalTitle" = "Small active";
+
+/* Class = "UILabel"; text = "Average:"; ObjectID = "kIJ-NO-J4H"; */
+"kIJ-NO-J4H.text" = "Average:";
+
+/* Class = "UITextField"; text = "5"; ObjectID = "kNg-y2-2SS"; */
+"kNg-y2-2SS.text" = "5";
+
+/* Class = "UILabel"; text = "Day 2\n"; ObjectID = "kbF-dW-YEQ"; */
+"kbF-dW-YEQ.text" = "Day 2\n";
+
+/* Class = "UIButton"; normalTitle = "Calculate!"; ObjectID = "lBI-b6-VtR"; */
+"lBI-b6-VtR.normalTitle" = "Calculate!";
+
+/* Class = "UILabel"; text = "VO2Max"; ObjectID = "lTE-J0-up0"; */
+"lTE-J0-up0.text" = "VO2Max";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "mXx-o3-Fvw"; */
+"mXx-o3-Fvw.text" = "00";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "mm6-X3-e4K"; */
+"mm6-X3-e4K.text" = "1";
+
+/* Class = "UITextView"; text = "You don't need a doctor to tell you that exercise is essential for a healthy life. But if you don't already exercise, your doctor may need to advise you if it's safe to start.\n\nMost people can safely take up walking. But it's best to check with your doctor before starting if:\n\n• you are extremely unsteady on your feet\n\n• you have dizzy spells or take medicine that makes you feel dizzy or drowsy\n\n• you have a chronic or unstable health condition, such as heart disease (or several risk factors for heart disease), asthma or another respiratory ailment, high blood pressure, osteoporosis, or diabetes.\n\nYou may want to check out a helpful tool called the Physical Activity Readiness Questionnaire (PAR-Q). It was developed by the Canadian Society for Exercise Physiology to help people decide whether to talk to a doctor before embarking on or ramping up any exercise program. You can find it at www.health.harvard.edu/PAR-Q.\n\nSeveral different specialists can help you build an exercise or tailor one to suit your needs. They include:\n\n■ Physiatrists, also known as rehabilitation physicians, are board-certified medical doctors who specialize in treating nerve, muscle, and bone conditions that affect movement. Stroke, back problems, Parkinson's disease, neuropathy, and debilitating arthritis or obesity are a few examples. A physiatrist can tailor exercises to enhance recovery after surgery or an injury, or work with limitations posed by pain or problems affecting movement. He or she can also tell you whether certain types of exercise will be helpful or harmful given your specific health history.\n\n■ Physical therapists help restore abilities to people with health problems or injuries affecting muscles, bones, or nerves. Their expertise can be valuable if you have suffered a lingering sprain or are recovering from a stroke or heart attack. Some specialize in geriatrics, orthopedics, cardiopulmonary rehabilitation, or other areas. After having received a bachelor's degree, physical therapists must graduate from an accredited physical therapy program. Most of these programs offer doctoral degrees. Additionally, they must pass a national exam given by the Federation of State Boards of Physical Therapy and be licensed by their state. Those who specialize complete advanced training and additional national exams to become board certified.\n\n■ Physical therapy assistants provide physical therapy services under the supervision of a physical therapist. They must complete a two-year associate's degree, pass a national exam, and, in most states, be licensed.\n\n■ Personal trainers are fitness specialists who can help ensure that you're doing exercises properly. While encouraging and motivating you, they can teach new skills, fine-tune your form, change up routines to beat boredom, and safely push you to the next level. No nationwide licensing requirements exist for personal trainers, although standards for the accrediting fitness organizations that train them have been set by the National Commission for Certifying Agencies. Two well-respected organizations that offer programs of study for personal trainers are the American College of Sports Medicine (ACSM) and the American Council on Exercise (ACE). Others include the National Council on Strength and Fitness (NCSF), the National Strength and Conditioning Association (NSCA), and the National Academy of Sports Medicine (NASM). All fitness organizations have different requirements for training and expertise. Some trainers specialize in working with particular populations—for example, older adults or athletes—and may have taken courses and possibly certifying exams in these areas. "; ObjectID = "mpv-RN-6W1"; */
+"mpv-RN-6W1.text" = "You don't need a doctor to tell you that exercise is essential for a healthy life. But if you don't already exercise, your doctor may need to advise you if it's safe to start.\n\nMost people can safely take up walking. But it's best to check with your doctor before starting if:\n\n• you are extremely unsteady on your feet\n\n• you have dizzy spells or take medicine that makes you feel dizzy or drowsy\n\n• you have a chronic or unstable health condition, such as heart disease (or several risk factors for heart disease), asthma or another respiratory ailment, high blood pressure, osteoporosis, or diabetes.\n\nYou may want to check out a helpful tool called the Physical Activity Readiness Questionnaire (PAR-Q). It was developed by the Canadian Society for Exercise Physiology to help people decide whether to talk to a doctor before embarking on or ramping up any exercise program. You can find it at www.health.harvard.edu/PAR-Q.\n\nSeveral different specialists can help you build an exercise or tailor one to suit your needs. They include:\n\n■ Physiatrists, also known as rehabilitation physicians, are board-certified medical doctors who specialize in treating nerve, muscle, and bone conditions that affect movement. Stroke, back problems, Parkinson's disease, neuropathy, and debilitating arthritis or obesity are a few examples. A physiatrist can tailor exercises to enhance recovery after surgery or an injury, or work with limitations posed by pain or problems affecting movement. He or she can also tell you whether certain types of exercise will be helpful or harmful given your specific health history.\n\n■ Physical therapists help restore abilities to people with health problems or injuries affecting muscles, bones, or nerves. Their expertise can be valuable if you have suffered a lingering sprain or are recovering from a stroke or heart attack. Some specialize in geriatrics, orthopedics, cardiopulmonary rehabilitation, or other areas. After having received a bachelor's degree, physical therapists must graduate from an accredited physical therapy program. Most of these programs offer doctoral degrees. Additionally, they must pass a national exam given by the Federation of State Boards of Physical Therapy and be licensed by their state. Those who specialize complete advanced training and additional national exams to become board certified.\n\n■ Physical therapy assistants provide physical therapy services under the supervision of a physical therapist. They must complete a two-year associate's degree, pass a national exam, and, in most states, be licensed.\n\n■ Personal trainers are fitness specialists who can help ensure that you're doing exercises properly. While encouraging and motivating you, they can teach new skills, fine-tune your form, change up routines to beat boredom, and safely push you to the next level. No nationwide licensing requirements exist for personal trainers, although standards for the accrediting fitness organizations that train them have been set by the National Commission for Certifying Agencies. Two well-respected organizations that offer programs of study for personal trainers are the American College of Sports Medicine (ACSM) and the American Council on Exercise (ACE). Others include the National Council on Strength and Fitness (NCSF), the National Strength and Conditioning Association (NSCA), and the National Academy of Sports Medicine (NASM). All fitness organizations have different requirements for training and expertise. Some trainers specialize in working with particular populations—for example, older adults or athletes—and may have taken courses and possibly certifying exams in these areas. ";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "nZ4-SW-7K5"; */
+"nZ4-SW-7K5.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "PACE:"; ObjectID = "nZy-NC-P7f"; */
+"nZy-NC-P7f.text" = "PACE:";
+
+/* Class = "UIButton"; normalTitle = "Running Plan"; ObjectID = "nq1-g1-kWq"; */
+"nq1-g1-kWq.normalTitle" = "Running Plan";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "ntE-Cr-M4D"; */
+"ntE-Cr-M4D.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "oFp-Bk-4p0"; */
+"oFp-Bk-4p0.text" = "Pace";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "oL4-fj-00j"; */
+"oL4-fj-00j.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "Harvard health publications "; ObjectID = "oSd-FG-DpH"; */
+"oSd-FG-DpH.text" = "Harvard health publications ";
+
+/* Class = "UIButton"; normalTitle = "I understand"; ObjectID = "ok1-gH-1cc"; */
+"ok1-gH-1cc.normalTitle" = "I understand";
+
+/* Class = "UILabel"; text = "VO2Max"; ObjectID = "p1c-jO-oKY"; */
+"p1c-jO-oKY.text" = "VO2Max";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "pfo-L7-JTN"; */
+"pfo-L7-JTN.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "5x200mts 5x200mts 5x200mts"; ObjectID = "qaQ-9G-dPu"; */
+"qaQ-9G-dPu.text" = "5x200mts 5x200mts 5x200mts";
+
+/* Class = "UITextView"; text = "Body mass index, or BMI, is used to determine whether you are in a healthy weight range for your height.\n\nIt is useful consider BMI alongside waist circumference, as increases or decreases in weight outside the healthy range may increase your health risks.\n\nBMI compares your weight to your height, and is calculated by dividing your weight in kilograms by your height in metres squared. It gives you an idea of whether you’re underweight, a healthy weight, overweight, or obese for your height. BMI is one type of tool to help health professionals to assess risk for chronic disease. Another important tool is waist circumference. It is also important to understand your other risk factors.\n\nCalculate your BMI\nBMI is a useful measurement for most people over 18 years old. But it is only an estimate and it doesn’t take into account gender, age, ethnicity and body composition. We recommend you also check your waist measurement, and other risk factors.\n\nSpeak to your doctor, an Accredited Practising Dietitian or a health practitioner about your weight.\n\nThis calculator shouldn’t be used for pregnant women or children.\n\nBasal Metabolic Rate, or BMR is an estimate of how many calories you'd burn if you were to do nothing but rest for 24 hours. It represents the minimum amount of energy needed to keep your body functioning, including breathing and keeping your heart beating.\n\nYour BMR does not include the calories you burn from normal daily activities or exercise."; ObjectID = "qqL-xg-Mkp"; */
+"qqL-xg-Mkp.text" = "Body mass index, or BMI, is used to determine whether you are in a healthy weight range for your height.\n\nIt is useful consider BMI alongside waist circumference, as increases or decreases in weight outside the healthy range may increase your health risks.\n\nBMI compares your weight to your height, and is calculated by dividing your weight in kilograms by your height in metres squared. It gives you an idea of whether you’re underweight, a healthy weight, overweight, or obese for your height. BMI is one type of tool to help health professionals to assess risk for chronic disease. Another important tool is waist circumference. It is also important to understand your other risk factors.\n\nCalculate your BMI\nBMI is a useful measurement for most people over 18 years old. But it is only an estimate and it doesn’t take into account gender, age, ethnicity and body composition. We recommend you also check your waist measurement, and other risk factors.\n\nSpeak to your doctor, an Accredited Practising Dietitian or a health practitioner about your weight.\n\nThis calculator shouldn’t be used for pregnant women or children.\n\nBasal Metabolic Rate, or BMR is an estimate of how many calories you'd burn if you were to do nothing but rest for 24 hours. It represents the minimum amount of energy needed to keep your body functioning, including breathing and keeping your heart beating.\n\nYour BMR does not include the calories you burn from normal daily activities or exercise.";
+
+/* Class = "UILabel"; text = "(kg)"; ObjectID = "qrG-ph-J8P"; */
+"qrG-ph-J8P.text" = "(kg)";
+
+/* Class = "UILabel"; text = "Warning!"; ObjectID = "rFW-Sp-xPE"; */
+"rFW-Sp-xPE.text" = "Warning!";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "rLg-Vf-Fme"; */
+"rLg-Vf-Fme.text" = "3.4min / 3.8max";
+
+/* Class = "UISegmentedControl"; ray-yF-33s.segmentTitles[0] = "Male"; ObjectID = "ray-yF-33s"; */
+"ray-yF-33s.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; ray-yF-33s.segmentTitles[1] = "Female"; ObjectID = "ray-yF-33s"; */
+"ray-yF-33s.segmentTitles[1]" = "Female";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "rmS-Kh-xVA"; */
+"rmS-Kh-xVA.text" = "00";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "s2r-Fq-Sl9"; */
+"s2r-Fq-Sl9.text" = "Gender:";
+
+/* Class = "UILabel"; text = "RESET"; ObjectID = "sRx-k5-UDK"; */
+"sRx-k5-UDK.text" = "RESET";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "sge-Mt-94P"; */
+"sge-Mt-94P.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "10 days"; ObjectID = "srD-Y1-6k7"; */
+"srD-Y1-6k7.text" = "10 days";
+
+/* Class = "UIButton"; normalTitle = "Calculate!"; ObjectID = "sze-40-ZOl"; */
+"sze-40-ZOl.normalTitle" = "Calculate!";
+
+/* Class = "UIButton"; normalTitle = "I understand"; ObjectID = "t9E-9z-5vJ"; */
+"t9E-9z-5vJ.normalTitle" = "I understand";
+
+/* Class = "UILabel"; text = "3.4min / 3.8max"; ObjectID = "uaD-Bi-QGH"; */
+"uaD-Bi-QGH.text" = "3.4min / 3.8max";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "v6E-Dh-kJ9"; */
+"v6E-Dh-kJ9.text" = "00";
+
+/* Class = "UILabel"; text = "Distance:"; ObjectID = "vFF-nb-Gep"; */
+"vFF-nb-Gep.text" = "Distance:";
+
+/* Class = "UILabel"; text = "_____________________"; ObjectID = "vVX-62-2jP"; */
+"vVX-62-2jP.text" = "_____________________";
+
+/* Class = "UIViewController"; title = "AboutTheApp"; ObjectID = "vah-ZF-p8s"; */
+"vah-ZF-p8s.title" = "AboutTheApp";
+
+/* Class = "UILabel"; text = "VO2RunMax"; ObjectID = "vgj-3i-dSj"; */
+"vgj-3i-dSj.text" = "VO2RunMax";
+
+/* Class = "UITextView"; text = "All calculations and algorithms are publicly available at Harvard health publications & The Cooper Institute for Aerobics Research, Dallas TX, revised 1997 printed in Advance Fitness Assessment & Exercise Prescription, 3rd Edition, Vivian H. Heyward, 1998.p48"; ObjectID = "voQ-vJ-E2l"; */
+"voQ-vJ-E2l.text" = "All calculations and algorithms are publicly available at Harvard health publications & The Cooper Institute for Aerobics Research, Dallas TX, revised 1997 printed in Advance Fitness Assessment & Exercise Prescription, 3rd Edition, Vivian H. Heyward, 1998.p48";
+
+/* Class = "UILabel"; text = "Pace:"; ObjectID = "wCf-US-nHC"; */
+"wCf-US-nHC.text" = "Pace:";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "waQ-uD-HHh"; */
+"waQ-uD-HHh.text" = "Pace";
+
+/* Class = "UIButton"; normalTitle = "I understand"; ObjectID = "weK-eM-VJG"; */
+"weK-eM-VJG.normalTitle" = "I understand";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "wyx-yF-b0k"; */
+"wyx-yF-b0k.text" = "_______________________";
+
+/* Class = "UIButton"; normalTitle = "VO2Max"; ObjectID = "xJh-cj-tJz"; */
+"xJh-cj-tJz.normalTitle" = "VO2Max";
+
+/* Class = "UILabel"; text = "Day 5\n"; ObjectID = "xOW-zI-tPW"; */
+"xOW-zI-tPW.text" = "Day 5\n";
+
+/* Class = "UILabel"; text = "Projection long distnce"; ObjectID = "xW0-oz-80k"; */
+"xW0-oz-80k.text" = "Projection long distnce";
+
+/* Class = "UILabel"; text = "Liters of daily water required"; ObjectID = "xcn-k4-3vc"; */
+"xcn-k4-3vc.text" = "Liters of daily water required";
+
+/* Class = "UILabel"; text = "Day 1\n"; ObjectID = "xv0-y2-Xz5"; */
+"xv0-y2-Xz5.text" = "Day 1\n";
+
+/* Class = "UITextView"; text = "30/30 and 60/60 Intervals\nA good way to introduce VO2max training into your program is with 30/30 and 60/60 intervals. Created by French exercise physiologist Veronique Billat, these workouts are effective fitness builders that are well tolerated by runners at a modest fitness level.\n\nStart with 30/30 intervals. After warming up with at least 10 minutes of easy jogging, run 30 seconds hard, at the fastest pace you could hold for about six minutes in a race. Then slow to an easy jog for 30 seconds. Continue alternating fast and slow 30-second segments until you have completed at least 12 and as many as 20 of each.\n\nIncrease the number of 30/30 intervals you complete each time you do this workout, and then switch to 60/60 intervals. Start with at least six of these and build up to as many as 10.\n\nHill Intervals\nShorter hill intervals of 20 to 90 seconds are great for developing power, strength and speed. Slightly longer intervals of two to three minutes are great for VO2max development. To do a hill intervals workout, warm up with at least 10 minutes of easy jogging. Then run hard uphill for two to three minutes (choose your duration before you start), jog back down to your starting point and repeat.\n\nIf your fitness level is modest, start with a set of 4 x 2:00 or 3 x 3:00. Very fit runners can do as much as 10 x 2:00 or 7 x 3:00. Pace yourself so that you neither slow down through the workout due to early fatigue nor finish the workout feeling you could do more.\n\nLactate Intervals\nLactate intervals are the toughest kind of VO2max training. Make sure you build up a fairly high level of fitness with 30/30, 60/60 and hill intervals before you move on to lactate intervals.\n\nIt is best to do this type of workout on the track. Warm up with at least 10 minutes of easy jogging and then run hard for 800 (two laps on a full-size running track) to 1200 meters (three laps on a full-size running track) around the track. Now reduce your pace to an easy jog for 400 meters.\n\nRun shorter intervals (800m) in your first lactate intervals workout of a given training cycle and then move upward. Do a total of about 5000m of fast running in these workouts (6-7 x 800m, 5 x 1000m, 4 x 1200m). Again, try to run the fastest pace that you can sustain through the last interval without slowing down.\n\nIt cannot be denied: VO2max training is hard. That's why most runners do very little of it. But you're not like most runners, are you? Take advantage of your superior mental toughness and make a commitment to VO2max training. You will find the rewards to be well worth a little heavy breathing."; ObjectID = "ySz-Qj-Oqp"; */
+"ySz-Qj-Oqp.text" = "30/30 and 60/60 Intervals\nA good way to introduce VO2max training into your program is with 30/30 and 60/60 intervals. Created by French exercise physiologist Veronique Billat, these workouts are effective fitness builders that are well tolerated by runners at a modest fitness level.\n\nStart with 30/30 intervals. After warming up with at least 10 minutes of easy jogging, run 30 seconds hard, at the fastest pace you could hold for about six minutes in a race. Then slow to an easy jog for 30 seconds. Continue alternating fast and slow 30-second segments until you have completed at least 12 and as many as 20 of each.\n\nIncrease the number of 30/30 intervals you complete each time you do this workout, and then switch to 60/60 intervals. Start with at least six of these and build up to as many as 10.\n\nHill Intervals\nShorter hill intervals of 20 to 90 seconds are great for developing power, strength and speed. Slightly longer intervals of two to three minutes are great for VO2max development. To do a hill intervals workout, warm up with at least 10 minutes of easy jogging. Then run hard uphill for two to three minutes (choose your duration before you start), jog back down to your starting point and repeat.\n\nIf your fitness level is modest, start with a set of 4 x 2:00 or 3 x 3:00. Very fit runners can do as much as 10 x 2:00 or 7 x 3:00. Pace yourself so that you neither slow down through the workout due to early fatigue nor finish the workout feeling you could do more.\n\nLactate Intervals\nLactate intervals are the toughest kind of VO2max training. Make sure you build up a fairly high level of fitness with 30/30, 60/60 and hill intervals before you move on to lactate intervals.\n\nIt is best to do this type of workout on the track. Warm up with at least 10 minutes of easy jogging and then run hard for 800 (two laps on a full-size running track) to 1200 meters (three laps on a full-size running track) around the track. Now reduce your pace to an easy jog for 400 meters.\n\nRun shorter intervals (800m) in your first lactate intervals workout of a given training cycle and then move upward. Do a total of about 5000m of fast running in these workouts (6-7 x 800m, 5 x 1000m, 4 x 1200m). Again, try to run the fastest pace that you can sustain through the last interval without slowing down.\n\nIt cannot be denied: VO2max training is hard. That's why most runners do very little of it. But you're not like most runners, are you? Take advantage of your superior mental toughness and make a commitment to VO2max training. You will find the rewards to be well worth a little heavy breathing.";
+
+/* Class = "UILabel"; text = "_______________________"; ObjectID = "yYq-hD-D6q"; */
+"yYq-hD-D6q.text" = "_______________________";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "yhf-rW-kmm"; */
+"yhf-rW-kmm.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "yr2-tb-Opz"; */
+"yr2-tb-Opz.text" = "Age:";
+
+/* Class = "UISegmentedControl"; yup-uN-vaq.segmentTitles[0] = "Male"; ObjectID = "yup-uN-vaq"; */
+"yup-uN-vaq.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; yup-uN-vaq.segmentTitles[1] = "Female"; ObjectID = "yup-uN-vaq"; */
+"yup-uN-vaq.segmentTitles[1]" = "Female";
+
+/* Class = "UIViewController"; title = "VOMax"; ObjectID = "z2J-P3-Vew"; */
+"z2J-P3-Vew.title" = "VOMax";
+
+/* Class = "UIViewController"; title = "IBMData"; ObjectID = "zN6-gL-jxj"; */
+"zN6-gL-jxj.title" = "IBMData";
+
+/* Class = "UIButton"; normalTitle = "Water Calculator"; ObjectID = "zNJ-uj-tgz"; */
+"zNJ-uj-tgz.normalTitle" = "Water Calculator";
+
+/* Class = "UILabel"; text = "Pace"; ObjectID = "zQL-bg-eRK"; */
+"zQL-bg-eRK.text" = "Pace";
+
+/* Class = "UILabel"; text = "Time:"; ObjectID = "zRu-3R-aQU"; */
+"zRu-3R-aQU.text" = "Time:";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "zff-5a-lnn"; */
+"zff-5a-lnn.text" = "00";
